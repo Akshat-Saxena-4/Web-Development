@@ -42,6 +42,9 @@
 }
 .Contacts{
     border: 5px solid red;
+    height: fit-content;
+    width:auto;
+    height: auto;
     padding: auto;
     text-align: left;
     font-size: 27px;
